@@ -1,0 +1,8 @@
+ipykernel
+langchain
+langchain_community
+python-dotenv
+langchain-text-splitters
+faiss-cpu
+langchain_groq
+streamlit
