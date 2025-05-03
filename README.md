@@ -24,3 +24,12 @@ The user inputs a query through the Streamlit interface.
 The system retrieves relevant information from the FAISS index based on the query.
 The model generates a polite and helpful response based on the retrieved context.
 The response is displayed on the Streamlit page.
+
+
+
+
+
+🌟 Instructions for Generating a New API Key
+To ensure the application keeps running, each user must generate their own API key.
+
+
